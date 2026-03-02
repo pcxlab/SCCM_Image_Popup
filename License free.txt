@@ -1,13 +1,1 @@
-Month	Pay Day	Day
-Jan	Feb 2nd	Monday
-Feb	Mar 2nd	Monday
-Mar	Apr 2nd	Thursday
-Apr	Apr 30th	Thursday
-May	Jun 1st	Monday
-Jun	Jul 1st	Wednesday
-Jul	Aug 1st	Saturday
-Aug	Sep 1st	Tuesday
-Sep	Oct 1st	Thursday
-Oct	Nov 2nd	Monday
-Nov	Dec 1st	Tuesday
-Dec	Jan 1st	Friday
+
